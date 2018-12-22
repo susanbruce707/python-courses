@@ -10,6 +10,7 @@
 - [Effective Python](http://www.effectivepython.com/)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [Python for you and me](http://pymbook.readthedocs.io/en/py3/)
+- [Python Programming for the absolute begginer] Michael Dawson cengage.com
 
  ### Framework Specific
   - Django
@@ -26,6 +27,7 @@
   - [Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393)
   - [Fluent Python](http://shop.oreilly.com/product/0636920032519.do)
   - [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html)
+  - [Python Tricks The Book] Dan Bader at mail@dbader.org
 
  ### Database Specific
   - [SQLAlchemy The Database Toolkit for Python](http://shop.oreilly.com/product/0636920035800.do)
